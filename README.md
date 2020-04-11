@@ -1,2 +1,10 @@
-# scribe
-A small DIY NFC dev board
+# Scribe
+
+A small DIY NFC development board
+
+## Schematic
+![schematic](schematic.png)
+
+## Pictures
+![front](front.jpg)
+![rear](rear.jpg)
