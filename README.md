@@ -46,4 +46,4 @@ This is my assembly procedure:
 ## Notes
 
 - You can use my [mfd utils](https://gist.github.com/hexwell/4fb1c50a1e4a6299a3a9e21aea007271) to do conversions between MIFARE dump file formats and generate code for the [write dump firmware](firmwares/write_dump_uidc/write_dump_uidc.ino).
-- If your board ever gets **bricked** you can check out [my guide](https://github.com/hexwell/notes-public/blob/master/electronics/resources/pro_micro_brick.md)
+- If your board ever gets **bricked** you can check out [my guide](https://github.com/hexwell/wiki/blob/master/en/electronics/resources/pro_micro_brick.org)
