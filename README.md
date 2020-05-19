@@ -46,4 +46,4 @@ This is my assembly procedure:
 ## Notes
 
 - You can use [MFC](https://github.com/hexwell/mfc) to do conversions between MIFARE dump file formats and generate code for the _write dump_ firmware.
-- If your board ever gets **bricked** you can check out [my guide](https://wiki.hexwell.net/en/electronics/resources/pro_micro_brick.org)
+- If your board ever gets **bricked** you can check out [my guide](https://wiki.hexwell.net/en/electronics/resources/pro_micro_brick.md)
